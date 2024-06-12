@@ -1,6 +1,5 @@
 # todo_app
-
-A new Flutter project.
+ A flutter to_do app with CRUD functionality!
 
 ## Getting Started
 
